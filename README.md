@@ -1,8 +1,8 @@
 # Github-Profile
 My Profile
-# 👋 Hi, I'm Fajar
+# 👋 Hi, I'm Fajar Chaudhary
 
-🎓 Computer Science student focused on Artificial Intelligence, Machine Learning, and Cybersecurity Systems.
+🎓 Undergraduate Computer Science student focused on Artificial Intelligence, Machine Learning, and Cybersecurity Systems.
 
 I build research-inspired systems that combine machine learning, rule-based reasoning, and system-level security modeling. My work focuses on improving reliability, interpretability, and decision-making in AI systems.
 
